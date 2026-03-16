@@ -16,7 +16,7 @@ st.markdown("""
 
 # Header
 st.title("🚀 Executive Dashboard: Analisis Ekspansi Toko")
-st.markdown("Webinar: **Analisa Data dengan Python & Streamlit** | Oleh: Muhamad Nur Faqi")
+st.markdown("Webinar: **Analisa Data dengan Python & Streamlit** | Oleh: Muhamad Nur Faqi & Miliono")
 st.divider()
 
 # --- Fungsi Helper untuk Format Rupiah Ringkas ---
